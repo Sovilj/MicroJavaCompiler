@@ -1,0 +1,173 @@
+Deklariasana konstanta num i1 na liniji 4
+Deklariasana konstanta char c1 na liniji 5
+Deklariasana konstanta bool b1 na liniji 6
+Deklarisana promenljiva i3 na liniji 13
+Deklarisana promenljiva c3 na liniji 14
+Deklarisana promenljiva b3 na liniji 15
+Deklarisana promenljiva nizi na liniji 19
+Deklarisana promenljiva nizc na liniji 20
+Deklarisana promenljiva nizb na liniji 21
+Deklariasana enum konstanta enum1.NULA = 0 na liniji 25
+Deklariasana enum konstanta enum1.JEDAN = 1 na liniji 25
+Deklariasana enum konstanta enum1.PET = 5 na liniji 25
+Deklariasana enum konstanta enum1.DESET = 10 na liniji 25
+Deklariasana enum konstanta enum2.BY_ONE = 0 na liniji 26
+Deklariasana enum konstanta enum2.DOUBLE_VALUE = 1 na liniji 26
+Deklariasana enum konstanta enum3.NULA = 1 na liniji 28
+Deklariasana enum konstanta enum3.JEDAN = 2 na liniji 28
+Deklariasana enum konstanta enum3.PET = 1 na liniji 28
+Deklariasana enum konstanta enum3.DESET = 10 na liniji 28
+Deklariasana enum konstanta enum4.NULA = 0 na liniji 29
+Deklariasana enum konstanta enum4.JEDAN = 1 na liniji 29
+Deklariasana enum konstanta enum4.DESET = 10 na liniji 29
+Obradjuje se funkcija test1 na liniji 32
+Deklarisan je formalni parametar i u metodi test1 na liniji 32
+Obradjuje se funkcija test2 na liniji 35
+Deklarisan je formalni parametar c u metodi test2 na liniji 35
+Obradjuje se funkcija test3 na liniji 38
+Uspesno dodeljena vrednost promenjivoj nizi na liniji 39
+Obradjuje se funkcija func1 na liniji 41
+Deklarisan je formalni parametar i1 u metodi func1 na liniji 41
+Deklarisan je formalni parametar tipa niz, niz u metodi func1 na liniji 41
+Deklarisan je formalni parametar c u metodi func1 na liniji 41
+Obradjuje se funkcija func2 na liniji 44
+Deklarisan je formalni parametar i1 u metodi func2 na liniji 44
+Deklarisan je formalni parametar c1 u metodi func2 na liniji 44
+Deklarisan je formalni parametar b1 u metodi func2 na liniji 44
+Deklarisan je formalni parametar tipa niz, niz u metodi func2 na liniji 44
+Obradjuje se funkcija test4 na liniji 49
+Deklarisan je formalni parametar i u metodi test4 na liniji 49
+Obradjuje se funkcija test5 na liniji 52
+Deklarisan je formalni parametar c u metodi test5 na liniji 52
+Obradjuje se funkcija test6 na liniji 55
+Deklarisan je formalni parametar c u metodi test6 na liniji 55
+Obradjuje se funkcija main na liniji 60
+Deklarisana promenljiva i4 na liniji 61
+Deklarisana promenljiva c4 na liniji 62
+Deklarisana promenljiva b4 na liniji 63
+Deklarisana promenljiva e0 na liniji 64
+Deklarisana promenljiva e1 na liniji 64
+Deklarisana promenljiva nizint na liniji 65
+Deklarisana promenljiva nizchar na liniji 66
+Uspesno dodeljena vrednost promenjivoj i4 na liniji 68
+Uspesno dodeljena vrednost promenjivoj c4 na liniji 69
+Uspesno dodeljena vrednost promenjivoj e0 na liniji 70
+Uspesno dodeljena vrednost promenjivoj e1 na liniji 71
+Uspesno dodeljena vrednost promenjivoj nizi na liniji 72
+Uspesno dodeljena vrednost promenjivoj nizc na liniji 73
+Uspesno dodeljena vrednost promenjivoj nizb na liniji 74
+Uspesno dodeljena vrednost promenjivoj nizi na liniji 75
+Uspesno dodeljena vrednost promenjivoj nizi na liniji 76
+Uspesno inkrementirana vrednost i4 na liniji 85
+Uspesno dekrementirana vrednost i4 na liniji 86
+Uspesno inkrementirana vrednost nizi na liniji 87
+Pronadjen poziv funkcije test1 na liniji 93
+Pronadjen poziv funkcije test3 na liniji 94
+Uspesno pozvana funkcija read  na liniji 100
+Uspesno pozvana funkcija read  na liniji 101
+Uspesno pozvana funkcija read  na liniji 102
+Uspesno pozvana funkcija read  na liniji 103
+Uspesno pozvana funkcija read  na liniji 104
+Pronadjen poziv funkcije test1 na liniji 105
+Uspesno pozvana funkcija read  na liniji 105
+Uspesno pozvana funkcija print  na liniji 112
+Pronadjen poziv funkcije test1 na liniji 113
+Uspesno pozvana funkcija print  na liniji 113
+Uspesno pozvana funkcija print  na liniji 114
+Pronadjen poziv funkcije test1 na liniji 115
+Uspesno pozvana funkcija print  na liniji 115
+Pronadjen poziv funkcije func1 na liniji 120
+Pronadjen poziv funkcije func2 na liniji 121
+Pronadjen poziv funkcije func1 na liniji 122
+Pronadjen poziv funkcije func1 na liniji 122
+Pronadjen poziv funkcije func2 na liniji 122
+Pronadjen poziv funkcije func1 na liniji 124
+Pronadjen poziv funkcije func1 na liniji 125
+Pronadjen poziv funkcije func2 na liniji 126
+Pronadjen poziv funkcije test1 na liniji 138
+Pronadjen poziv funkcije test1 na liniji 141
+Pronadjen poziv funkcije func1 na liniji 141
+Uspesno dodeljena vrednost promenjivoj i4 na liniji 141
+Uspesno dodeljena vrednost promenjivoj nizint na liniji 142
+Uspesno dodeljena vrednost promenjivoj i4 na liniji 143
+Pronadjen poziv funkcije test2 na liniji 147
+Pronadjen poziv funkcije test1 na liniji 149
+Pronadjen poziv funkcije func1 na liniji 149
+Uspesno dodeljena vrednost promenjivoj i4 na liniji 149
+Uspesno dodeljena vrednost promenjivoj nizint na liniji 153
+
+===================ZAVRSENA SEMANTIKA==================
+ Deklarisanih Lokalnih promenljivih ima = 7
+ Deklarisanih Globalnih promenljivih ima = 8
+ Deklarisanih konstanti ima = 7
+ Poziva funkcija ima = 19
+ Pristupa nizovima = 18
+ Poziva print funkcije = 4
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Prog testSemantikeGreske: notype, 0, 1 
+   Type bool: bool, 0, 0 
+   Con i1: int, 1, 0 
+   Con c1: char, 97, 0 
+   Con b1: bool, 1, 0 
+   Var i3: int, 0, 0 
+   Var c3: char, 1, 0 
+   Var b3: bool, 2, 0 
+   Var nizi: Arr of int, 3, 0 
+   Var nizc: Arr of char, 4, 0 
+   Var nizb: Arr of bool, 5, 0 
+   Type enum1: enum, 0, 0 
+   Type enum2: enum, 0, 0 
+   Type enum3: enum, 0, 0 
+   Type enum4: enum, 0, 0 
+   Meth test1: int, 0, 1 
+      Var i: int, 0, 1 
+
+   Meth test2: char, 0, 1 
+      Var c: char, 0, 1 
+
+   Meth test3: notype, 0, 0 
+
+   Meth func1: int, 0, 3 
+      Var i1: int, 0, 1 
+      Var niz: Arr of int, 1, 1 
+      Var c: char, 2, 1 
+
+   Meth func2: notype, 0, 4 
+      Var i1: int, 0, 1 
+      Var c1: char, 1, 1 
+      Var b1: bool, 2, 1 
+      Var niz: Arr of char, 3, 1 
+
+   Meth test4: int, 0, 1 
+      Var i: int, 0, 1 
+
+   Meth test5: notype, 0, 1 
+      Var c: char, 0, 1 
+
+   Meth test6: notype, 0, 1 
+      Var c: char, 0, 1 
+
+   Meth main: notype, 0, 0 
+      Var i4: int, 0, 1 
+      Var c4: char, 1, 1 
+      Var b4: bool, 2, 1 
+      Var e0: enum, 3, 1 
+      Var e1: enum, 4, 1 
+      Var nizint: Arr of int, 5, 1 
+      Var nizchar: Arr of char, 6, 1 
+
+
+

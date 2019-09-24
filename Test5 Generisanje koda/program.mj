@@ -1,0 +1,121 @@
+
+program generisanjeIspravno
+
+	enum Broj { NULA, JEDAN, PET=5, DESET=10}
+	enum IncrementType { BY_ONE, DOUBLE_VALUE }
+
+	const int jedan = 1;
+	const int pet = 5;
+	const char c1 = 'c';
+	const bool b1 = true;
+	
+
+	int niz[];
+	char nizch[];
+	bool nizb[];
+	
+	int i;
+	bool ibool;
+	char c;
+	bool b;
+	
+{
+	int inc(int broj)
+	{
+		return broj + Broj.JEDAN;
+	}
+
+	void mul(int arr[], int index, int b)
+	{
+		arr[index] = arr[index] * b;
+	}
+	
+	int sum1(int i1, int i2,int i3){
+		return i1+i2+i3;
+	}
+	
+	int sum(int z, int d)
+	{
+		return z + d;
+	}
+	
+	int inkrement(int a, IncrementType type) int pom; 
+	{
+		pom = 1;
+		return sum(a,pom);
+	}
+
+
+	void main()	
+		int bodovi;
+		Broj nula, jedan;
+	{
+		nula = Broj.NULA;
+		jedan = Broj.JEDAN;	
+		
+		i = 5*6+3/5-10/2;
+		bodovi = 0;
+		bodovi++;
+		bodovi = bodovi + jedan;
+		bodovi = bodovi * pet;
+		bodovi--;
+		print(bodovi);
+		b = true;
+		print(b); 
+		c = 'a';
+		print(c); 
+		
+		print(eol);
+		
+		niz = new int[2];
+		niz[nula] = pet;
+		niz[1] = Broj.DESET;
+		mul(niz, inc(0), 2);
+		mul(niz, Broj.NULA, inc(inc(Broj.JEDAN)+1));
+		bodovi = niz[1]/niz[0];
+		print(bodovi); 
+		print(niz[Broj.JEDAN]);
+		print(eol);
+		
+		nizch = new char[3];
+		nizch[0] = 'a';
+		nizch[jedan] = 'b';
+		nizch[pet - 3] = 'c';
+		print( nizch[inc(0)],4);
+		print( nizch[jedan * 2]);
+		print(eol);
+		
+		nizb = new bool[3];
+		nizb[0] = true;
+		nizb[Broj.JEDAN] = false;
+		print(nizb[4-4]);
+		print(nizb[Broj.PET - 4]);
+		print(eol);
+			
+		
+		bodovi = bodovi + ((pet * jedan - 1) * inc(Broj.JEDAN) - (3 % 2 + 3 * 2 - 3) - inc(Broj.NULA) * 0); 
+		print(bodovi);	
+		i = sum1(sum1(1,2,3),niz[sum1(0,0,1)],inc(bodovi));
+		print(i);
+		niz[nula] = bodovi + sum1(sum1(1,2,3),niz[sum1(0,0,1)],inc(bodovi)) * i ;
+		print(niz[nula]);
+		
+		print(eol);
+		
+		
+		read(bodovi);
+		bodovi = inc(bodovi);
+		print(bodovi);
+		print(eol);
+			
+
+		ibool = false;
+		i = 0;
+		print(sum (sum(niz[0], niz[1]), niz[1])); 
+		print(eol); 
+		print(inkrement(niz[0], IncrementType.DOUBLE_VALUE));
+	
+	}
+}
+
+

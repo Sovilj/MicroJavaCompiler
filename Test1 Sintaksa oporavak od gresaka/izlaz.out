@@ -1,0 +1,63 @@
+Deklariasana konstanta num x na liniji 2
+Deklariasana konstanta char c na liniji 3
+Deklarisana promenljiva niz na liniji 5
+Deklarisana promenljiva broj1 na liniji 6
+Deklarisana promenljiva broj2 na liniji 6
+Deklarisana promenljiva pomB na liniji 7
+Obradjuje se funkcija test1 na liniji 10
+Deklarisan je formalni parametar i1 u metodi test1 na liniji 10
+Obradjuje se funkcija test na liniji 13
+Deklarisana promenljiva i1 na liniji 14
+Deklarisana promenljiva i2 na liniji 14
+Deklarisana promenljiva nizch na liniji 15
+Uspesno dodeljena vrednost promenjivoj i1 na liniji 17
+Uspesno dodeljena vrednost promenjivoj niz na liniji 18
+Obradjuje se funkcija main na liniji 23
+Uspesno pozvana funkcija print  na liniji 24
+Uspesno pozvana funkcija print  na liniji 25
+Uspesno pozvana funkcija print  na liniji 26
+Uspesno inkrementirana vrednost broj1 na liniji 28
+Uspesno dodeljena vrednost promenjivoj broj1 na liniji 29
+Uspesno dodeljena vrednost promenjivoj niz na liniji 31
+
+===================ZAVRSENA SEMANTIKA==================
+ Deklarisanih Lokalnih promenljivih ima = 3
+ Deklarisanih Globalnih promenljivih ima = 4
+ Deklarisanih konstanti ima = 2
+ Poziva funkcija ima = 0
+ Pristupa nizovima = 1
+ Poziva print funkcije = 3
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Prog MJProgram: notype, 0, 1 
+   Type bool: bool, 0, 0 
+   Con x: int, 16, 0 
+   Con c: char, 98, 0 
+   Var niz: Arr of int, 0, 0 
+   Var broj1: int, 1, 0 
+   Var broj2: int, 2, 0 
+   Var pomB: bool, 3, 0 
+   Meth test1: notype, 0, 1 
+      Var i1: int, 0, 1 
+
+   Meth test: notype, 0, 0 
+      Var i1: int, 0, 1 
+      Var i2: int, 1, 1 
+      Var nizch: Arr of char, 2, 1 
+
+   Meth main: notype, 0, 0 
+
+
+

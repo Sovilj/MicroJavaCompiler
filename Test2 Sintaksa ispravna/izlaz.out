@@ -1,0 +1,153 @@
+Deklariasana enum konstanta Broj.NULA = 0 na liniji 5
+Deklariasana enum konstanta Broj.JEDAN = 1 na liniji 5
+Deklariasana enum konstanta Broj.PET = 5 na liniji 5
+Deklariasana enum konstanta Broj.DESET = 10 na liniji 5
+Deklariasana enum konstanta IncrementType.BY_ONE = 0 na liniji 6
+Deklariasana enum konstanta IncrementType.DOUBLE_VALUE = 1 na liniji 6
+Deklariasana konstanta num jedan na liniji 8
+Deklariasana konstanta num pet na liniji 9
+Deklarisana promenljiva i na liniji 11
+Deklarisana promenljiva ibool na liniji 12
+Deklarisana promenljiva niz na liniji 15
+Deklarisana promenljiva nizch na liniji 16
+Obradjuje se funkcija sum na liniji 19
+Deklarisan je formalni parametar z u metodi sum na liniji 19
+Deklarisan je formalni parametar d u metodi sum na liniji 19
+Obradjuje se funkcija inc na liniji 23
+Deklarisan je formalni parametar broj u metodi inc na liniji 23
+Obradjuje se funkcija inkrement na liniji 27
+Deklarisan je formalni parametar a u metodi inkrement na liniji 27
+Deklarisan je formalni parametar type u metodi inkrement na liniji 27
+Deklarisana promenljiva pom na liniji 27
+Uspesno dodeljena vrednost promenjivoj pom na liniji 29
+Uspesno dodeljena vrednost promenjivoj pom na liniji 30
+Pronadjen poziv funkcije sum na liniji 32
+Obradjuje se funkcija mul na liniji 35
+Deklarisan je formalni parametar tipa niz, arr u metodi mul na liniji 35
+Deklarisan je formalni parametar index u metodi mul na liniji 35
+Deklarisan je formalni parametar b u metodi mul na liniji 35
+Uspesno dodeljena vrednost promenjivoj arr na liniji 37
+Obradjuje se funkcija main na liniji 40
+Deklarisana promenljiva bodovi na liniji 41
+Deklarisana promenljiva nula na liniji 42
+Deklarisana promenljiva jedan na liniji 42
+Uspesno dodeljena vrednost promenjivoj nula na liniji 44
+Uspesno dodeljena vrednost promenjivoj jedan na liniji 45
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 47
+Uspesno inkrementirana vrednost bodovi na liniji 48
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 49
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 50
+Uspesno dekrementirana vrednost bodovi na liniji 51
+Uspesno pozvana funkcija print  na liniji 52
+Uspesno dodeljena vrednost promenjivoj niz na liniji 55
+Uspesno dodeljena vrednost promenjivoj niz na liniji 56
+Uspesno dodeljena vrednost promenjivoj niz na liniji 57
+Pronadjen poziv funkcije inc na liniji 58
+Pronadjen poziv funkcije mul na liniji 58
+Pronadjen poziv funkcije inc na liniji 59
+Pronadjen poziv funkcije inc na liniji 59
+Pronadjen poziv funkcije mul na liniji 59
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 60
+Uspesno pozvana funkcija print  na liniji 61
+Uspesno pozvana funkcija print  na liniji 62
+Uspesno dodeljena vrednost promenjivoj nizch na liniji 65
+Uspesno dodeljena vrednost promenjivoj nizch na liniji 66
+Uspesno dodeljena vrednost promenjivoj nizch na liniji 67
+Uspesno dodeljena vrednost promenjivoj nizch na liniji 68
+Pronadjen poziv funkcije inc na liniji 69
+Uspesno pozvana funkcija print  na liniji 69
+Uspesno pozvana funkcija print  na liniji 70
+Pronadjen poziv funkcije inc na liniji 73
+Pronadjen poziv funkcije inc na liniji 73
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 73
+Uspesno pozvana funkcija print  na liniji 74
+Uspesno pozvana funkcija read  na liniji 77
+Pronadjen poziv funkcije inc na liniji 78
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 78
+Uspesno pozvana funkcija print  na liniji 79
+Uspesno pozvana funkcija print  na liniji 83
+Uspesno pozvana funkcija print  na liniji 84
+Uspesno dodeljena vrednost promenjivoj ibool na liniji 86
+Uspesno dodeljena vrednost promenjivoj i na liniji 87
+Uspesno dodeljena vrednost promenjivoj i na liniji 88
+Uspesno inkrementirana vrednost i na liniji 88
+Uspesno dodeljena vrednost promenjivoj ibool na liniji 90
+Uspesno pozvana funkcija print  na liniji 94
+Uspesno pozvana funkcija print  na liniji 95
+Pronadjen poziv funkcije ord na liniji 97
+Uspesno pozvana funkcija print  na liniji 97
+Pronadjen poziv funkcije ord na liniji 98
+Uspesno pozvana funkcija print  na liniji 98
+Uspesno pozvana funkcija print  na liniji 100
+Uspesno dodeljena vrednost promenjivoj i na liniji 101
+Uspesno inkrementirana vrednost i na liniji 106
+Pronadjen poziv funkcije inkrement na liniji 110
+Uspesno dodeljena vrednost promenjivoj i na liniji 110
+Uspesno pozvana funkcija print  na liniji 113
+Uspesno pozvana funkcija print  na liniji 114
+Uspesno pozvana funkcija read  na liniji 116
+Uspesno pozvana funkcija read  na liniji 117
+Uspesno pozvana funkcija read  na liniji 118
+Uspesno pozvana funkcija print  na liniji 119
+Pronadjen poziv funkcije sum na liniji 121
+Pronadjen poziv funkcije sum na liniji 121
+Uspesno pozvana funkcija print  na liniji 121
+Uspesno pozvana funkcija print  na liniji 123
+Pronadjen poziv funkcije inkrement na liniji 124
+Uspesno pozvana funkcija print  na liniji 124
+
+===================ZAVRSENA SEMANTIKA==================
+ Deklarisanih Lokalnih promenljivih ima = 4
+ Deklarisanih Globalnih promenljivih ima = 4
+ Deklarisanih konstanti ima = 2
+ Poziva funkcija ima = 16
+ Pristupa nizovima = 20
+ Poziva print funkcije = 20
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Prog test301test302: notype, 0, 1 
+   Type bool: bool, 0, 0 
+   Type Broj: enum, 0, 0 
+   Type IncrementType: enum, 0, 0 
+   Con jedan: int, 1, 0 
+   Con pet: int, 5, 0 
+   Var i: int, 0, 0 
+   Var ibool: bool, 1, 0 
+   Var niz: Arr of int, 2, 0 
+   Var nizch: Arr of char, 3, 0 
+   Meth sum: int, 0, 2 
+      Var z: int, 0, 1 
+      Var d: int, 1, 1 
+
+   Meth inc: int, 0, 1 
+      Var broj: int, 0, 1 
+
+   Meth inkrement: int, 0, 2 
+      Var a: int, 0, 1 
+      Var type: enum, 1, 1 
+      Var pom: int, 2, 1 
+
+   Meth mul: notype, 0, 3 
+      Var arr: Arr of int, 0, 1 
+      Var index: int, 1, 1 
+      Var b: int, 2, 1 
+
+   Meth main: notype, 0, 0 
+      Var bodovi: int, 0, 1 
+      Var nula: enum, 1, 1 
+      Var jedan: enum, 2, 1 
+
+
+

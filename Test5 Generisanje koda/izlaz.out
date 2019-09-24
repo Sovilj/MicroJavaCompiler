@@ -1,0 +1,177 @@
+Deklariasana enum konstanta Broj.NULA = 0 na liniji 4
+Deklariasana enum konstanta Broj.JEDAN = 1 na liniji 4
+Deklariasana enum konstanta Broj.PET = 5 na liniji 4
+Deklariasana enum konstanta Broj.DESET = 10 na liniji 4
+Deklariasana enum konstanta IncrementType.BY_ONE = 0 na liniji 5
+Deklariasana enum konstanta IncrementType.DOUBLE_VALUE = 1 na liniji 5
+Deklariasana konstanta num jedan na liniji 7
+Deklariasana konstanta num pet na liniji 8
+Deklariasana konstanta char c1 na liniji 9
+Deklariasana konstanta bool b1 na liniji 10
+Deklarisana promenljiva niz na liniji 13
+Deklarisana promenljiva nizch na liniji 14
+Deklarisana promenljiva nizb na liniji 15
+Deklarisana promenljiva i na liniji 17
+Deklarisana promenljiva ibool na liniji 18
+Deklarisana promenljiva c na liniji 19
+Deklarisana promenljiva b na liniji 20
+Obradjuje se funkcija inc na liniji 23
+Deklarisan je formalni parametar broj u metodi inc na liniji 23
+Obradjuje se funkcija mul na liniji 28
+Deklarisan je formalni parametar tipa niz, arr u metodi mul na liniji 28
+Deklarisan je formalni parametar index u metodi mul na liniji 28
+Deklarisan je formalni parametar b u metodi mul na liniji 28
+Uspesno dodeljena vrednost promenjivoj arr na liniji 30
+Obradjuje se funkcija sum1 na liniji 33
+Deklarisan je formalni parametar i1 u metodi sum1 na liniji 33
+Deklarisan je formalni parametar i2 u metodi sum1 na liniji 33
+Deklarisan je formalni parametar i3 u metodi sum1 na liniji 33
+Obradjuje se funkcija sum na liniji 37
+Deklarisan je formalni parametar z u metodi sum na liniji 37
+Deklarisan je formalni parametar d u metodi sum na liniji 37
+Obradjuje se funkcija inkrement na liniji 42
+Deklarisan je formalni parametar a u metodi inkrement na liniji 42
+Deklarisan je formalni parametar type u metodi inkrement na liniji 42
+Deklarisana promenljiva pom na liniji 42
+Uspesno dodeljena vrednost promenjivoj pom na liniji 44
+Pronadjen poziv funkcije sum na liniji 45
+Obradjuje se funkcija main na liniji 49
+Deklarisana promenljiva bodovi na liniji 50
+Deklarisana promenljiva nula na liniji 51
+Deklarisana promenljiva jedan na liniji 51
+Uspesno dodeljena vrednost promenjivoj nula na liniji 53
+Uspesno dodeljena vrednost promenjivoj jedan na liniji 54
+Uspesno dodeljena vrednost promenjivoj i na liniji 56
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 57
+Uspesno inkrementirana vrednost bodovi na liniji 58
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 59
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 60
+Uspesno dekrementirana vrednost bodovi na liniji 61
+Uspesno pozvana funkcija print  na liniji 62
+Uspesno dodeljena vrednost promenjivoj b na liniji 63
+Uspesno pozvana funkcija print  na liniji 64
+Uspesno dodeljena vrednost promenjivoj c na liniji 65
+Uspesno pozvana funkcija print  na liniji 66
+Uspesno pozvana funkcija print  na liniji 68
+Uspesno dodeljena vrednost promenjivoj niz na liniji 70
+Uspesno dodeljena vrednost promenjivoj niz na liniji 71
+Uspesno dodeljena vrednost promenjivoj niz na liniji 72
+Pronadjen poziv funkcije inc na liniji 73
+Pronadjen poziv funkcije mul na liniji 73
+Pronadjen poziv funkcije inc na liniji 74
+Pronadjen poziv funkcije inc na liniji 74
+Pronadjen poziv funkcije mul na liniji 74
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 75
+Uspesno pozvana funkcija print  na liniji 76
+Uspesno pozvana funkcija print  na liniji 77
+Uspesno pozvana funkcija print  na liniji 78
+Uspesno dodeljena vrednost promenjivoj nizch na liniji 80
+Uspesno dodeljena vrednost promenjivoj nizch na liniji 81
+Uspesno dodeljena vrednost promenjivoj nizch na liniji 82
+Uspesno dodeljena vrednost promenjivoj nizch na liniji 83
+Pronadjen poziv funkcije inc na liniji 84
+Uspesno pozvana funkcija print  na liniji 84
+Uspesno pozvana funkcija print  na liniji 85
+Uspesno pozvana funkcija print  na liniji 86
+Uspesno dodeljena vrednost promenjivoj nizb na liniji 88
+Uspesno dodeljena vrednost promenjivoj nizb na liniji 89
+Uspesno dodeljena vrednost promenjivoj nizb na liniji 90
+Uspesno pozvana funkcija print  na liniji 91
+Uspesno pozvana funkcija print  na liniji 92
+Uspesno pozvana funkcija print  na liniji 93
+Pronadjen poziv funkcije inc na liniji 96
+Pronadjen poziv funkcije inc na liniji 96
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 96
+Uspesno pozvana funkcija print  na liniji 97
+Pronadjen poziv funkcije sum1 na liniji 98
+Pronadjen poziv funkcije sum1 na liniji 98
+Pronadjen poziv funkcije inc na liniji 98
+Pronadjen poziv funkcije sum1 na liniji 98
+Uspesno dodeljena vrednost promenjivoj i na liniji 98
+Uspesno pozvana funkcija print  na liniji 99
+Pronadjen poziv funkcije sum1 na liniji 100
+Pronadjen poziv funkcije sum1 na liniji 100
+Pronadjen poziv funkcije inc na liniji 100
+Pronadjen poziv funkcije sum1 na liniji 100
+Uspesno dodeljena vrednost promenjivoj niz na liniji 100
+Uspesno pozvana funkcija print  na liniji 101
+Uspesno pozvana funkcija print  na liniji 103
+Uspesno pozvana funkcija read  na liniji 106
+Pronadjen poziv funkcije inc na liniji 107
+Uspesno dodeljena vrednost promenjivoj bodovi na liniji 107
+Uspesno pozvana funkcija print  na liniji 108
+Uspesno pozvana funkcija print  na liniji 109
+Uspesno dodeljena vrednost promenjivoj ibool na liniji 112
+Uspesno dodeljena vrednost promenjivoj i na liniji 113
+Pronadjen poziv funkcije sum na liniji 114
+Pronadjen poziv funkcije sum na liniji 114
+Uspesno pozvana funkcija print  na liniji 114
+Uspesno pozvana funkcija print  na liniji 115
+Pronadjen poziv funkcije inkrement na liniji 116
+Uspesno pozvana funkcija print  na liniji 116
+
+===================ZAVRSENA SEMANTIKA==================
+ Deklarisanih Lokalnih promenljivih ima = 4
+ Deklarisanih Globalnih promenljivih ima = 7
+ Deklarisanih konstanti ima = 4
+ Poziva funkcija ima = 21
+ Pristupa nizovima = 24
+ Poziva print funkcije = 22
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Prog generisanjeIspravno: notype, 0, 1 
+   Type bool: bool, 0, 0 
+   Type Broj: enum, 0, 0 
+   Type IncrementType: enum, 0, 0 
+   Con jedan: int, 1, 0 
+   Con pet: int, 5, 0 
+   Con c1: char, 99, 0 
+   Con b1: bool, 1, 0 
+   Var niz: Arr of int, 0, 0 
+   Var nizch: Arr of char, 1, 0 
+   Var nizb: Arr of bool, 2, 0 
+   Var i: int, 3, 0 
+   Var ibool: bool, 4, 0 
+   Var c: char, 5, 0 
+   Var b: bool, 6, 0 
+   Meth inc: int, 0, 1 
+      Var broj: int, 0, 1 
+
+   Meth mul: notype, 0, 3 
+      Var arr: Arr of int, 0, 1 
+      Var index: int, 1, 1 
+      Var b: int, 2, 1 
+
+   Meth sum1: int, 0, 3 
+      Var i1: int, 0, 1 
+      Var i2: int, 1, 1 
+      Var i3: int, 2, 1 
+
+   Meth sum: int, 0, 2 
+      Var z: int, 0, 1 
+      Var d: int, 1, 1 
+
+   Meth inkrement: int, 0, 2 
+      Var a: int, 0, 1 
+      Var type: enum, 1, 1 
+      Var pom: int, 2, 1 
+
+   Meth main: notype, 0, 0 
+      Var bodovi: int, 0, 1 
+      Var nula: enum, 1, 1 
+      Var jedan: enum, 2, 1 
+
+
+

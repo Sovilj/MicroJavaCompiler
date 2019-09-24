@@ -1,0 +1,164 @@
+program testSemantikeGreske
+
+	
+	const int i1 = 1;		//ispravno
+	const char c1 = 'a';
+	const bool b1 = true;
+	
+	const int i2 = true;	//greska
+	const int i1 = 2;
+	const char c2 = 1;
+	const bool b2 = 1;
+	
+	int i3;				//ispravno
+	char c3;
+	bool b3;
+		
+	int i3;				//greska
+	
+	int nizi []; 		//ispravno
+	char nizc[];
+	bool nizb[];
+	
+	int nizi []; 		//greska
+	
+	enum enum1 { NULA, JEDAN, PET=5, DESET=10} // ispravno
+	enum enum2 { BY_ONE, DOUBLE_VALUE }
+	
+	enum enum3 { NULA = 1, JEDAN, PET=1, DESET=10} // greska
+	enum enum4 { NULA , JEDAN, NULA, DESET=10}
+	
+{
+	int test1(int i){			//ispravno
+		return i+1;
+	}
+	char test2(char c){
+		return c;
+	}
+	void test3() {
+		nizi[0] = 0;
+	}
+	int func1(int i1,int niz[],char c) {
+		return 1+1;
+	}
+	void func2(int i1,char c1,bool b1, char niz[]) {
+		
+	}
+	
+	
+	int test4(int i){			//greska
+	
+	}
+	void test5(char c){
+		return c;
+	}
+	void test6(char c){
+		this.i1 = 2;
+	}
+
+
+	void main()	
+		int i4;
+		char c4;
+		bool b4;
+		enum1 e0, e1;
+		int nizint[];
+		char nizchar[];
+	{
+		i4 = 5;			//ispravno
+		c4 = 'c';
+		e0 = enum1.NULA;
+		e1 = enum1.JEDAN;
+		nizi = new int[5];
+		nizc = new char[5];
+		nizb = new bool[5];
+		nizi[1] = 1;
+		nizi[0] = e0;
+		
+		test3 = 4;      //greska
+		nizc[0] = 1;
+		nizc[0] = true;
+		nizc[0] = e0;
+		nizb[0] = 1;
+		 
+		 
+		i4++;			//ispravno
+		i4--;
+		nizi[e0]++;
+		
+		e0++;			//greska
+		b1++;
+		nizc[0]++;
+		
+		test1(1);		//ispravno
+		test3();
+		
+		nofunc();       	//greska
+		test1();
+		i4 = 3 + test3();
+		
+		read(i3);			//ispravno
+		read(c3);
+		read(b3);
+		read(nizi[0]);
+		read(nizc[e0]);
+		read(nizi[test1(i4)]);
+		
+		
+		read(i1);			//greska
+		read(c1);
+		read(b1);
+		
+		print(i4+i1);			//ispravno
+		print(nizc[test1(enum1.NULA)]);
+		print(true);
+		print(test1(nizi[enum1.PET]));
+								
+		return ;  				//ispravno
+		return 1;				//greska
+		
+		func1(i4,nizint,c4);				//ispravno
+		func2(i4,c4,b4,nizchar);
+		func2(func1(func1(i4,nizint,c4),nizint,c4),c4,b4,nizchar);
+		
+		func1(b4,nizint,c4);				//pogresno
+		func1(b4,nizchar,c4);
+		func2(i4,c4,nizchar,b4);
+		
+		if (i1 == i4){						//ispravno
+		}
+		if (i1 == enum1.NULA){						
+		}
+		
+		
+		if (i1 == c4){						//greska
+		}
+		if (nizint[1] == nizc[1]){						
+		}
+		if (b1 == test1(1)){						
+		}
+		
+		i4 = i3+3+test1(1)-45-func1(i4,nizint,c4);		//ispravno
+		nizint[enum1.JEDAN] = nizi[1]-i3+3;
+		i4 = enum1.NULA + 4 - 3;
+		
+		i4 = c4;								//greska
+		i4 = b4;
+		i4 = test2('r');
+		
+		i4 = i3*3/test1(1)*45*func1(i4,nizint,c4);		//ispravno
+		
+		i3 = c4 * b3;    			//greska
+		
+		nizint = new int[2];			//ispravno
+		
+		nizint = new int['w'];			//greska
+		
+		
+		
+		
+		
+	}
+}
+
+

@@ -1,0 +1,39 @@
+program MJProgram
+	const int x=16;
+	const char c='b';
+	
+	int niz[];
+	int broj1,broj#ac,broj2;  // Greska kod definicije globalne promenljive
+	bool pomB;
+	
+{
+	void test1(int i1,int i2 , ) {  // Greska kod formalnih parametara f-je
+	}
+	
+	void test () 
+	int i1,i2;
+	char nizch[]; 
+	{
+		i1 = 62;
+		niz=new int[4];
+		pom=true;
+		y= +pom;		// Greska kod dodele vrednosti
+	
+	}
+	void main() {
+	    print('m');
+		print(true);
+		print(4+5/3,2);	
+		broj1---;		// Greska kod dodele vrednosti
+		broj1++;
+		broj1=(3*9+8/4);
+		i2=-3;
+		niz[2]=3+5;
+		
+		if (x == 2 ||  = 3){  // Greska kod If konstrukcije
+			k();
+		}
+		
+		
+	}
+}

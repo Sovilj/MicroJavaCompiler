@@ -1,0 +1,45 @@
+Greska - Konstanta i2 nije odgovarajuceg tipa  na liniji 8
+Greska - Konstanta i1 je vec deklarisana  na liniji 9
+Greska - Konstanta c2 nije odgovarajuceg tipa  na liniji 10
+Greska - Konstanta b2 nije odgovarajuceg tipa  na liniji 11
+Greska - Promenjiva i3 je vec deklarisana  na liniji 17
+Greska - Promenjiva nizi je vec deklarisana  na liniji 23
+Greska - U enumeraciji enum3 ponavljanje vrednosti 1 na liniji 28
+Greska - U enumeraciji enum4 ponavljanje imena NULA na liniji 29
+Greska - Funkcija test4 nema return iskaz  na liniji 49
+Greska - Tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije test5 ret 2 meth 0 na liniji 53
+Greska - Globalne funkcije ne smeju imati parametar this  na liniji 56
+Greska - Kod dodele se tipovi ne slazu tip 0 i tip 1 na liniji 56
+Greska - Nelegalan izraz, Designator mora biti promenjiva, element niza ili polje unutar objekta  na liniji 78
+Greska - Kod dodele se tipovi ne slazu tip 3 i tip 1 na liniji 79
+Greska - Kod dodele se tipovi ne slazu tip 3 i tip 5 na liniji 80
+Greska - Kod dodele se tipovi ne slazu tip 3 i tip 6 na liniji 81
+Greska - Kod dodele se tipovi ne slazu tip 3 i tip 1 na liniji 82
+Greska - Designator mora biti int  na liniji 89
+Greska - Designator mora biti promenjiva, element niza ili polje unutar objekta  na liniji 90
+Greska - Designator mora biti int  na liniji 91
+Greska - Promenljiva nofunc nije deklarisana  na liniji 96
+Greska - Promenjiva noObj nije funkcija  na liniji 96
+Greska - Funkcija test1 zahteva argumente  na liniji 97
+Greska - Funkcija je tipa void i ne sme biti u izrazu  na liniji 98
+Greska - Nelegalan izraz  na liniji 98
+Greska - Nelegalan izraz, Designator mora biti promenjiva, element niza ili polje unutar objekta  na liniji 98
+Greska - Designator mora biti promenjiva, element niza ili polje unutar objekta! linija  na liniji 108
+Greska - Designator mora biti promenjiva, element niza ili polje unutar objekta! linija  na liniji 109
+Greska - Designator mora biti promenjiva, element niza ili polje unutar objekta! linija  na liniji 110
+Greska - Tip izraza u return naredbi ne slaze se sa tipom povratne vrednosti funkcije main ret 1 meth 0 na liniji 118
+Greska - Tipovi podataka kod stvarnih i formalnih argumenta se ne poklapaju, stvarni = 5 formalni = 1 na liniji 124
+Greska - Tipovi podataka stvarnih i formalnih argumenta se ne poklapaju  formalni = 1 stvarni = 2 na liniji 8
+Greska - Tipovi podataka kod stvarnih i formalnih argumenta se ne poklapaju, stvarni = 5 formalni = 1 na liniji 125
+Greska - Tipovi podataka kod stvarnih i formalnih argumenta se ne poklapaju  stvarni = 2 formalni = 5 na liniji 8
+Greska - Tipovi podataka kod stvarnih i formalnih argumenta se ne poklapaju, stvarni = 5 formalni = 3 na liniji 8
+Greska - nisu isti tipovi kod conditiona na liniji 134
+Greska - nisu isti tipovi kod conditiona na liniji 136
+Greska - nisu isti tipovi kod conditiona na liniji 138
+Greska - Kod dodele se tipovi ne slazu tip 1 i tip 2 na liniji 145
+Greska - Kod dodele se tipovi ne slazu tip 1 i tip 5 na liniji 146
+Greska - Kod dodele se tipovi ne slazu tip 1 i tip 2 na liniji 147
+Greska - Nekompatibilni tipovi u izrazu za mnozenje term =2 factor = 5 na liniji 151
+Greska - Kod dodele se tipovi ne slazu tip 1 i tip 0 na liniji 151
+Greska - Pogresan tip kod operatora NEW (Expr) na liniji 155
+Greska - Kod dodele se tipovi ne slazu tip 3 i tip 0 na liniji 155
